@@ -1,0 +1,173 @@
+{
+  "status": 0,
+  "data": {
+    "films": [{
+        "filmId": 4972,
+        "name": "熊出没·狂野大陆",
+        "poster": "https://pic.maizuo.com/usr/movie/44dc08914d508fc47c8267c6ca73f2d8.jpg",
+        "actors": [{
+          "name": "丁亮",
+          "role": "导演",
+          "avatarAddress": "https://pic.maizuo.com/usr/movie/940b30cea26c667dc0bccc3c2a5f679a.jpg"
+        }],
+        "director": "丁亮",
+        "category": "喜剧|科幻|动画",
+        "synopsis": "什么才是快乐的真谛？一场起源于爱的冒险！狗熊岭附近新开业了一个神奇的“狂野大陆”，在那里，通过基因技术人可以自由变身各种动物，享受无比的自由和快乐。导游事业受挫的光头强，阴差阳错与神秘人乐天和熊二组队，参加乐园里奖金丰厚的比赛，却遭遇了队友乐天的背叛，历尽艰险终于获得冠军之际，却意外发现狂野大陆中出现了肆意袭击他人的混合变身怪兽，同时也明白了队友乐天窃取基因手环的背后的真相。为了守护基因变身技术所承载的美好初衷，光头强与乐天冒险闯入总部，却再次发现在老板汤姆背后隐藏着真正的幕后黑手，他们是否能够获取最终的胜利？神秘人乐天背后又有着怎样的故事…",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1579910400,
+        "timeType": 3,
+        "runtime": 90,
+        "grade": "7.3",
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 4988,
+        "name": "红旗渠之归来仍是少年",
+        "poster": "https://pic.maizuo.com/usr/movie/2724a0f36d9499bf48e553c688563c07.jpg",
+        "actors": [{
+          "name": "李正伟",
+          "role": "导演",
+          "avatarAddress": "https://pic.maizuo.com/usr/movie/756a37807af8d1824dc7d8dc02fee611.jpg"
+        }, {
+          "name": "白志迪",
+          "role": "石天林",
+          "avatarAddress": "https://pic.maizuo.com/usr/movie/0459de4dc640ef0a1ad987ed4837c6d0.jpg"
+        }, {
+          "name": "吴迪",
+          "role": "青年石天林",
+          "avatarAddress": "https://pic.maizuo.com/usr/movie/cf64d9c4db7beabf388576bede6185c9.jpg"
+        }, {
+          "name": "孙苏雅",
+          "role": "叶儿",
+          "avatarAddress": "https://pic.maizuo.com/usr/movie/017f74d2ed0159a2df501951d6568d64.jpg"
+        }, {
+          "name": "恩美",
+          "role": "Nancy",
+          "avatarAddress": "https://pic.maizuo.com/usr/movie/6d52388c737535d1138a28b1a60df000.jpg"
+        }],
+        "director": "李正伟",
+        "category": "剧情|爱情",
+        "synopsis": "红旗渠总设计师杨贵书记因病离世，无数林州儿女自发组织悼念活动，细雨中，场面沉痛肃穆，感人至深……当初参与修建红旗渠的石天林（白志迪 饰）队长已经成为了一位年迈的老人，从新闻中看到这一幕，他想起曾参与修渠的那段难忘岁月，一时百感交集，于是立刻带着孙子栓柱从大洋彼岸飞回故乡林州，来到红旗渠纪念馆寄托哀思……重返林州，一路骑行，石天林终于见到了曾经的故人铁锤，却也又一次揭开了两人跨越几十年的恩怨，深藏心底的秘密也逐渐揭开谜底。可是天有不测风云，危险正在一步步迫近，这一次他们还能像几十年前那样安全脱险吗……",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1575590400,
+        "timeType": 3,
+        "runtime": 98,
+        "grade": "7.5",
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      }
+    ],
+    "total": 1
+  },
+  "msg": "ok"
+}
+
+{
+  "status": 0,
+  "data": {
+    "films": [{
+      "filmId": 4927,
+      "name": "通往春天的列车",
+      "poster": "https://pic.maizuo.com/usr/movie/92decb545de70d5cccf7f972a1abf649.jpg",
+      "actors": [{
+        "name": "李骥",
+        "role": "导演",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/e4ed6a7fe3b41ea2cd5feb4b90e9c9e5.jpg"
+      }, {
+        "name": "任素汐",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/0d9a17c197335263f00f1561f0426e56.jpg"
+      }, {
+        "name": "李岷城",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/d3e8bf4235124455bec569721f6875fe.jpg"
+      }, {
+        "name": "陈宇星",
+        "role": "演员",
+        "avatarAddress": "https://pic.maizuo.com/usr/movie/14acd58dc13055c90ceb56b7c21a3c32.jpg"
+      }],
+      "director": "李骥",
+      "category": "剧情|悬疑",
+      "synopsis": "《通往春天的列车》讲述了一个在经济转型后逐渐陷入颓态老工业基地齐齐哈尔，一个小人物青年寻求出路与自我的故事。因为导演李骥出生和成长在齐齐哈尔，对家乡有着深厚的感情，但曾经这些掌握着国家命脉的传统工业城市却日渐衰落，李骥在家乡的三十多年中经历了当时整个东北命脉的变迁，其中太多心酸太多想表达的东西，于是写成了这部关于齐齐哈尔青年人题材的剧本《通往春天的列车》，也是一部很少有剧组全程在齐齐哈尔取景的电影。",
+      "filmType": {
+        "name": "2D",
+        "value": 1
+      },
+      "nation": "中国大陆",
+      "language": "",
+      "videoId": "",
+      "premiereAt": 1584662400,
+      "timeType": 3,
+      "runtime": 99,
+      "item": {
+        "name": "2D",
+        "type": 1
+      },
+      "isPresale": false,
+      "isSale": false
+    }, {
+      "filmId": 3451,
+      "name": "阿凡达2",
+      "poster": "https://pic.maizuo.com/usr/movie/c5da4eddf824824c21f42aebd4f4120f.jpg",
+      "actors": [{
+        "name": "萨姆·沃辛顿",
+        "role": "杰克·萨利",
+        "avatarAddress": "https://pic.maizuo.com/usr/100003451/df050071a829cb47d7612e1e4c3f8b37.jpg"
+      }, {
+        "name": "佐伊·索尔达娜",
+        "role": "奈蒂莉",
+        "avatarAddress": "https://pic.maizuo.com/usr/100003451/a457d0e419128720688a6d11712db4b4.jpg"
+      }, {
+        "name": "西格妮·韦弗",
+        "role": "格蕾丝·奥格斯",
+        "avatarAddress": "https://pic.maizuo.com/usr/100003451/2ebc1d29d21743c960de288930921814.jpg"
+      }, {
+        "name": "史蒂芬·朗",
+        "role": "迈尔斯·夸奇上校",
+        "avatarAddress": "https://pic.maizuo.com/usr/100003451/368a975d10ee8e0bf30b5d5906fb6527.jpg"
+      }],
+      "director": "詹姆斯·卡梅隆",
+      "category": "动作|科幻|奇幻|冒险",
+      "synopsis": "《阿凡达2》的剧情承接自第一部的5年之后。曾经的地球残疾军人杰克·萨利，如今已经是潘多拉星球纳美族一方部族的族长，并且与爱妻娜塔莉共同育有一对可爱的儿女，日子过得平淡而充实。然而某天，有个部族的兄弟在海岸附近巡逻时遭到利器割喉身亡。通过现场勘查，以及作为前海军陆战队员的敏锐直觉，杰克判断已经有人类的阿凡达混入了部落……",
+      "filmType": {
+        "name": "2D",
+        "value": 1
+      },
+      "nation": "美国",
+      "language": "英语",
+      "videoId": "",
+      "premiereAt": 1608249600,
+      "timeType": 3,
+      "runtime": 90,
+      "item": {
+        "name": "2D",
+        "type": 1
+      },
+      "isPresale": false,
+      "isSale": false
+    }],
+    "total": 2
+  },
+  "msg": "ok"
+}
