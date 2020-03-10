@@ -24,10 +24,22 @@ let getInformation = () => {
   let url = 'http://rap2.taobao.org:38080/app/mock/246527/www.minutesi.top'
   return axios.get(url)
 }
+/* *************** 获取影院 **********************/
+let getCinemas = () => {
+  let url = 'http://rap2.taobao.org:38080/app/mock/246527/www.minutesi.top/cinemas02'
+  return axios.get(url)
+}
+/* *************** 城市列表 **********************/
+let getCityList = () => {
+  let url = 'http://rap2.taobao.org:38080/app/mock/246527/www.minutesi.top/city'
+  return axios.get(url)
+}
 
 export {
   getMovieReying,
   getMovieComing,
   getMovieDetail,
-  getInformation
+  getInformation,
+  getCinemas,
+  getCityList
 }

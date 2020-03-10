@@ -4,7 +4,7 @@
       <!-- 用户头像 -->
       <div class="avatar" @click="gologin">
         <img src="/maizuo.png" class="avatar-icon" alt="">
-        <div class="nick-name"  >{{ user ? user : '立即登录' }}</div>
+        <div class="nick-name"  >{{ this.$store.state.user ? this.$store.state.user : '立即登录' }}</div>
       </div>
       <!-- 用户订单 -->
       <ul class="order-tab">
@@ -39,7 +39,7 @@
             <span class="money">0</span>
           </span>
         </li>
-        <li class="items">
+        <li class="items" @click="setting">
           <img src="/setting.png" />
           <span>设置</span>
           <i class="iconfont">&#xe612;</i>
@@ -52,17 +52,16 @@
 
 <script>
   export default {
-    data () {
-      return {
-        user: null
-      }
-    },
     created () {
-      this.user = sessionStorage.getItem('userlogin')
+      let user = sessionStorage.getItem('username')
+      this.$store.state.user = user
     },
     methods: {
+      setting () {
+        this.$router.push('/setting')
+      },
       gologin () {
-        if (!this.user) {
+        if (!this.$store.state.user) {
           window.location.hash = '/my/login'
         }
       }
@@ -138,7 +137,7 @@
     .items {
       width: 90%;
       height: 49px;
-      border-bottom: 1px solid #ccc;
+      border-bottom: 1px solid #efefef;
       line-height: 49px;
       color: #191a1b;
       &>img {

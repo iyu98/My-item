@@ -1,5 +1,6 @@
 <template>
   <div class="login">
+    <i class="iconfont cancel" @click="cancel">&#xe612;</i>
     <div class="login-logo">
       <img src="/logo.png" alt="">
     </div>
@@ -28,6 +29,7 @@
 </template>
 
 <script>
+  import { mapMutations } from 'vuex'
   export default {
     data () {
       return {
@@ -38,10 +40,15 @@
       }
     },
     methods: {
+      ...mapMutations(['userLogin']),
+      cancel () {
+        this.$router.replace('/my')
+      },
       submit () {
+        if (!this.phoneVal && !this.code) return false;
         if (this.phoneVal == this.user.phone && this.code == this.user.randomCode) {
-          sessionStorage.setItem('userlogin', this.phoneVal)
-          window.location.hash = '/my'
+          this.userLogin({ username: this.phoneVal})
+          this.$router.replace('/my')
         }
       },
       sendCode () {
@@ -84,6 +91,13 @@
   bottom: 0;
   right: 0;
   background: #fff;
+  .cancel {
+    display: block;
+    position: fixed;
+    font-size: 20px;
+    top: 5px;
+    left: 6px;
+  }
   .login-logo {
     margin: 79px auto 40px;
     text-align: center;

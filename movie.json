@@ -1,173 +1,3777 @@
 {
   "status": 0,
   "data": {
-    "films": [{
-        "filmId": 4972,
-        "name": "熊出没·狂野大陆",
-        "poster": "https://pic.maizuo.com/usr/movie/44dc08914d508fc47c8267c6ca73f2d8.jpg",
-        "actors": [{
-          "name": "丁亮",
-          "role": "导演",
-          "avatarAddress": "https://pic.maizuo.com/usr/movie/940b30cea26c667dc0bccc3c2a5f679a.jpg"
-        }],
-        "director": "丁亮",
-        "category": "喜剧|科幻|动画",
-        "synopsis": "什么才是快乐的真谛？一场起源于爱的冒险！狗熊岭附近新开业了一个神奇的“狂野大陆”，在那里，通过基因技术人可以自由变身各种动物，享受无比的自由和快乐。导游事业受挫的光头强，阴差阳错与神秘人乐天和熊二组队，参加乐园里奖金丰厚的比赛，却遭遇了队友乐天的背叛，历尽艰险终于获得冠军之际，却意外发现狂野大陆中出现了肆意袭击他人的混合变身怪兽，同时也明白了队友乐天窃取基因手环的背后的真相。为了守护基因变身技术所承载的美好初衷，光头强与乐天冒险闯入总部，却再次发现在老板汤姆背后隐藏着真正的幕后黑手，他们是否能够获取最终的胜利？神秘人乐天背后又有着怎样的故事…",
-        "filmType": {
-          "name": "2D",
-          "value": 1
+    "cinemas": [
+      {
+        "cinemaId": 8119,
+        "name": "英皇电影城（东海缤纷店）",
+        "address": "东海缤纷天地商场B1层",
+        "longitude": 114.02628249565403,
+        "latitude": 22.54236316197308,
+        "gpsAddress": "114.02628249565403:22.54236316197308",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
         },
-        "nation": "中国大陆",
-        "language": "",
-        "videoId": "",
-        "premiereAt": 1579910400,
-        "timeType": 3,
-        "runtime": 90,
-        "grade": "7.3",
-        "item": {
-          "name": "2D",
-          "type": 1
-        },
-        "isPresale": true,
-        "isSale": false
+        "phone": "0755-32935088",
+        "telephones": [
+          "0755-32935088"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8119/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 9900,
+        "Distance": 0.17075998218786104,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
       },
       {
-        "filmId": 4988,
-        "name": "红旗渠之归来仍是少年",
-        "poster": "https://pic.maizuo.com/usr/movie/2724a0f36d9499bf48e553c688563c07.jpg",
-        "actors": [{
-          "name": "李正伟",
-          "role": "导演",
-          "avatarAddress": "https://pic.maizuo.com/usr/movie/756a37807af8d1824dc7d8dc02fee611.jpg"
-        }, {
-          "name": "白志迪",
-          "role": "石天林",
-          "avatarAddress": "https://pic.maizuo.com/usr/movie/0459de4dc640ef0a1ad987ed4837c6d0.jpg"
-        }, {
-          "name": "吴迪",
-          "role": "青年石天林",
-          "avatarAddress": "https://pic.maizuo.com/usr/movie/cf64d9c4db7beabf388576bede6185c9.jpg"
-        }, {
-          "name": "孙苏雅",
-          "role": "叶儿",
-          "avatarAddress": "https://pic.maizuo.com/usr/movie/017f74d2ed0159a2df501951d6568d64.jpg"
-        }, {
-          "name": "恩美",
-          "role": "Nancy",
-          "avatarAddress": "https://pic.maizuo.com/usr/movie/6d52388c737535d1138a28b1a60df000.jpg"
-        }],
-        "director": "李正伟",
-        "category": "剧情|爱情",
-        "synopsis": "红旗渠总设计师杨贵书记因病离世，无数林州儿女自发组织悼念活动，细雨中，场面沉痛肃穆，感人至深……当初参与修建红旗渠的石天林（白志迪 饰）队长已经成为了一位年迈的老人，从新闻中看到这一幕，他想起曾参与修渠的那段难忘岁月，一时百感交集，于是立刻带着孙子栓柱从大洋彼岸飞回故乡林州，来到红旗渠纪念馆寄托哀思……重返林州，一路骑行，石天林终于见到了曾经的故人铁锤，却也又一次揭开了两人跨越几十年的恩怨，深藏心底的秘密也逐渐揭开谜底。可是天有不测风云，危险正在一步步迫近，这一次他们还能像几十年前那样安全脱险吗……",
-        "filmType": {
-          "name": "2D",
-          "value": 1
+        "cinemaId": 6627,
+        "name": "中影国际影城（深圳深国投店）",
+        "address": "深圳市福田区侨香路嘉信茂购物中心三层",
+        "longitude": 114.01812839598324,
+        "latitude": 22.550793682992776,
+        "gpsAddress": "114.01812839598324:22.550793682992776",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
         },
-        "nation": "中国大陆",
-        "language": "",
-        "videoId": "",
-        "premiereAt": 1575590400,
-        "timeType": 3,
-        "runtime": 98,
-        "grade": "7.5",
-        "item": {
-          "name": "2D",
-          "type": 1
+        "phone": "0755-82531106",
+        "telephones": [
+          "0755-82531106"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6627/a394444e7192493eac4a6637d42ac050.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5600,
+        "Distance": 0.8993601388939048,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8595,
+        "name": "星美影商城（深圳京基IMAX店）",
+        "address": "深圳市福田区滨河大道9289号KKONE购物中心F4 ",
+        "longitude": 114.032657,
+        "latitude": 22.534414,
+        "gpsAddress": "114.032657:22.534414",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
         },
-        "isPresale": true,
-        "isSale": false
+        "phone": "0755-88635206",
+        "telephones": [
+          "0755-88635206"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8595/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 0.9120833181157831,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 7138,
+        "name": "江湖影院侨香店",
+        "address": "广东省深圳市福田区香蜜湖街道安托山七路海阔商业服务体L4-1",
+        "longitude": 114.019046,
+        "latitude": 22.557205,
+        "gpsAddress": "114.019046:22.557205",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-82711180",
+        "telephones": [
+          "0755-82711180"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7138/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "10:00-22:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6830,
+        "Distance": 0.9220142139539523,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 850,
+        "name": "深圳万众国际影城NEO店",
+        "address": "深圳市福田区深南中路NEO大厦A座3楼",
+        "longitude": 114.03633065093265,
+        "latitude": 22.54147896737388,
+        "gpsAddress": "114.03633065093265:22.54147896737388",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-88609190",
+        "telephones": [
+          "0755-88609190"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/850/6ba23fff4e0752d0ef657e66911acebb.jpg",
+        "businessTime": "10：00 - 24：00\t",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4820,
+        "Distance": 1.1714375424500425,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8596,
+        "name": "星美影商城（深圳福体店）",
+        "address": "广东省深圳市福田区福强路3030号福田体育公园负一层 ",
+        "longitude": 114.042289,
+        "latitude": 22.531772,
+        "gpsAddress": "114.042289:22.531772",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-88394927",
+        "telephones": [
+          "0755-88394927"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8596/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2490,
+        "Distance": 1.9281847805873618,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 5050,
+        "name": "深影国际影城佐阾虹湾店",
+        "address": "深圳市梅林街道北环大道6098号绿景虹湾购物中心三楼（地铁梅景站A1出口）",
+        "longitude": 114.04588512355402,
+        "latitude": 22.566775421359303,
+        "gpsAddress": "114.04588512355402:22.566775421359303",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-82345345",
+        "telephones": [
+          "0755-82345345"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5050/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "9:30~次日03:00",
+        "notice": "温馨提示：本影院谢绝外带饮料食品，影城提供自助取票机。",
+        "isVisited": 0,
+        "lowPrice": 6600,
+        "Distance": 2.4074463510287853,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9506,
+        "name": "传奇影城塘朗店",
+        "address": "广东省深圳市南山区塘朗城广场L3层",
+        "longitude": 114.00522190174235,
+        "latitude": 22.595023175706498,
+        "gpsAddress": "114.00522190174235:22.595023175706498",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86720309",
+        "telephones": [
+          "0755-86720309"
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5800,
+        "Distance": 3.202901837413305,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 627,
+        "name": "深圳中影国际影城欢乐海岸店",
+        "address": "深圳市南山区白石路东8号欢乐海岸曲水湾2栋A区",
+        "longitude": 113.997696,
+        "latitude": 22.529722,
+        "gpsAddress": "113.997696:22.529722",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86531893",
+        "telephones": [
+          "0755-86531893"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/627/24c90756dc458746b2a7bdbba2469a69.jpg",
+        "businessTime": "10:00-01:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5200,
+        "Distance": 3.233618489113216,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 6689,
+        "name": "深圳中影万国国际影城（益田村店）",
+        "address": "广东省深圳市福田区福强路益田大厦3楼",
+        "longitude": 114.05749259257024,
+        "latitude": 22.521222569702395,
+        "gpsAddress": "114.05749259257024:22.521222569702395",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-82888268",
+        "telephones": [
+          "0755-82888268"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6689/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4550,
+        "Distance": 3.6849618367600385,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 291,
+        "name": "百老汇影城（cocopark店）",
+        "address": "深圳福田区福华三路COCOPARK购物公园2楼",
+        "longitude": 114.05984435639458,
+        "latitude": 22.540104881700255,
+        "gpsAddress": "114.05984435639458:22.540104881700255",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-88811222",
+        "telephones": [
+          "0755-88811222"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/291/7B04C2FA1A8D8DD0137787673EF04642.jpg",
+        "businessTime": "09:40-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 7500,
+        "Distance": 3.780109197130652,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 56,
+        "name": "深圳华夏艺术中心",
+        "address": "深圳市华侨城光侨街1号华夏艺术中心",
+        "longitude": 113.99172536630708,
+        "latitude": 22.54063470305397,
+        "gpsAddress": "113.99172536630708:22.54063470305397",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-26602342",
+        "telephones": [
+          "0755-26602342"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/56/6B0BE72C8E19762CEB84C99000931C51.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3800,
+        "Distance": 3.820394438699031,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1822,
+        "name": "深圳纵横国际影城石厦店",
+        "address": "深圳市福田区石厦北二街89号石厦新港商城三层",
+        "longitude": 114.059812,
+        "latitude": 22.526139,
+        "gpsAddress": "114.059812:22.526139",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-28181068",
+        "telephones": [
+          "0755-28181068"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1822/37ff8000bff9acd35041754ccc984216.png",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5710,
+        "Distance": 3.873636442380536,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1713,
+        "name": "中影国际影城（龙华九方店）",
+        "address": "深圳市龙华区人民路天虹购物中心（原九方购物中心）3楼中影国际影城",
+        "longitude": 114.02770999204117,
+        "latitude": 22.6333529989276,
+        "gpsAddress": "114.02770999204117:22.6333529989276",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-89358077",
+        "telephones": [
+          "0755-89358077"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1713/2dffcd54f18204485c3e66c775d0b7b8.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6000,
+        "Distance": 3.9615963058294885,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 630,
+        "name": "深圳横店影城",
+        "address": "深圳龙华区民治书香门第上河坊2栋2层",
+        "longitude": 114.05268980216272,
+        "latitude": 22.60403994636405,
+        "gpsAddress": "114.05268980216272:22.60403994636405",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-29233330",
+        "telephones": [
+          "0755-29233330"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/630/287d24415747c2c2f2c2eecff72ee550.jpg",
+        "businessTime": "10:30-凌晨0:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3400,
+        "Distance": 3.969800288265243,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1799,
+        "name": "深圳中影城市UL龙珠店",
+        "address": "深圳市南山区桃源村三期岁宝百货二楼",
+        "longitude": 113.99076343561477,
+        "latitude": 22.563824443589272,
+        "gpsAddress": "113.99076343561477:22.563824443589272",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86363369\t",
+        "telephones": [
+          "0755-86363369\t"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1799/09adafa6ec3f453081a2f10064d2695d.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5350,
+        "Distance": 4.001372923103965,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8428,
+        "name": "深圳中影楼上友嘉影城（民治店）",
+        "address": "深圳市龙华区民治街道民泰社区玖龙玺三楼，楼上友嘉影城",
+        "longitude": 114.053476,
+        "latitude": 22.603805,
+        "gpsAddress": "114.053476:22.603805",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23778695",
+        "telephones": [
+          "0755-23778695"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8428/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "10：00-次日1：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 4.028875227135427,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 4908,
+        "name": "深圳博亚影城民治店",
+        "address": "广东省深圳市龙华新区樟坑二区百易广场A栋4楼",
+        "longitude": 114.042894,
+        "latitude": 22.62535,
+        "gpsAddress": "114.042894:22.62535",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-21005655",
+        "telephones": [
+          "0755-21005655"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4908/ef7da7c7be2ba73247f4d52a073c085f.jpg",
+        "businessTime": "10:00-02:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4430,
+        "Distance": 4.058735119763438,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1362,
+        "name": "深圳博纳国际影城龙华店",
+        "address": "深圳市宝安区龙华新城梅龙路COCOCity星河盛世店1层",
+        "longitude": 114.052957,
+        "latitude": 22.608364,
+        "gpsAddress": "114.052957:22.608364",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23740580转866",
+        "telephones": [
+          "0755-23740580转866"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1362/eec3b8b28ffb31e98fb863d4c3bbb0d6.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6400,
+        "Distance": 4.123939761544042,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 256,
+        "name": "深圳嘉之华中心影城",
+        "address": "福田区福中一路深圳音乐厅内（福中一路2016号）",
+        "longitude": 114.06367918488657,
+        "latitude": 22.553054613976453,
+        "gpsAddress": "114.06367918488657:22.553054613976453",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-82878333",
+        "telephones": [
+          "0755-82878333"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/256/494e3d0911504578a65cddf6ebeeaf94.png",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 13670,
+        "Distance": 4.209355002127525,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9333,
+        "name": "纵横时光道影城",
+        "address": ":深圳市南山区侨香路4080号侨城坊·九方荟",
+        "longitude": 113.98702153323453,
+        "latitude": 22.558526341681812,
+        "gpsAddress": "113.98702153323453:22.558526341681812",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86639186",
+        "telephones": [
+          "0755-86639186"
+        ],
+        "logoUrl": "",
+        "businessTime": "10:00-0:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4310,
+        "Distance": 4.372770510715381,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 868,
+        "name": "深圳华夏嘉熙业国际影城",
+        "address": "深圳市龙华区民冶大道328号嘉熙业广场5楼",
+        "longitude": 114.04666143737884,
+        "latitude": 22.628656353921098,
+        "gpsAddress": "114.04666143737884:22.628656353921098",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23226666",
+        "telephones": [
+          "0755-23226666"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/868/5089b71d4a0ed462461cfb147021e0db.jpg",
+        "businessTime": "09:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4890,
+        "Distance": 4.39676444561958,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8445,
+        "name": "深圳上影盛泰国际影城",
+        "address": "龙华区民治街道上塘地铁站D出口ATMALL购物中心三楼上影盛泰国际影城",
+        "longitude": 114.020787,
+        "latitude": 22.642376,
+        "gpsAddress": "114.020787:22.642376",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-28880456",
+        "telephones": [
+          "0755-28880456"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8445/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4700,
+        "Distance": 4.4032752170511165,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3225,
+        "name": "深圳百川国际影城（龙华店）",
+        "address": "深圳市龙华新区民治大道水尾村优城商场5楼",
+        "longitude": 114.04322,
+        "latitude": 22.633997,
+        "gpsAddress": "114.04322:22.633997",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-88899359",
+        "telephones": [
+          "0755-88899359"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3225/7620ac55647f6b84814dbe00a3543664.png",
+        "businessTime": "10:00-23:00，节假日9:30-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5120,
+        "Distance": 4.425406587206271,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 912,
+        "name": "深圳博纳国际影城皇庭店",
+        "address": "深圳市福田区福华三路118号皇庭广场B1-3",
+        "longitude": 114.0659083371953,
+        "latitude": 22.539494215353763,
+        "gpsAddress": "114.0659083371953:22.539494215353763",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-23819800",
+        "telephones": [
+          "0755-23819800"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/912/eec3b8b28ffb31e98fb863d4c3bbb0d6.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 7400,
+        "Distance": 4.455453426510736,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 703,
+        "name": "深圳深影华纳影城（民乐店）",
+        "address": " 深圳市龙华区民治街道民乐一区民乐大厦3楼",
+        "longitude": 114.05861375150737,
+        "latitude": 22.604049699194153,
+        "gpsAddress": "114.05861375150737:22.604049699194153",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23155166",
+        "telephones": [
+          "0755-23155166"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/703/27f81a29d81ebe42c44924b4d59904df.png",
+        "businessTime": "10：:0-01:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5710,
+        "Distance": 4.485595792337732,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 4,
+        "name": "深圳金逸影城中心城店",
+        "address": "深圳市福田区福华一路怡景中心城G层",
+        "longitude": 114.0663409018406,
+        "latitude": 22.541448100044605,
+        "gpsAddress": "114.0663409018406:22.541448100044605",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-82801169",
+        "telephones": [
+          "0755-82801169"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4/5659b49a9a48be7b8b71e4594f3417e4.jpg",
+        "businessTime": "10:0024:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 4.498514181583705,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1095,
+        "name": "大地影院（佐阾香颂店）",
+        "address": "深圳市龙华区布龙路与民治大道交汇处佐阾香颂1楼",
+        "longitude": 114.04334410113167,
+        "latitude": 22.635708350848194,
+        "gpsAddress": "114.04334410113167:22.635708350848194",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-85295363",
+        "telephones": [
+          "0755-85295363"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1095/226af4b1d757f2054a8370d5e24fb9ad.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 4.501368079961176,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 712,
+        "name": "金逸影城民治店",
+        "address": "深圳宝安区民治大道牛栏前大厦岁宝百货3楼",
+        "longitude": 114.04368222332549,
+        "latitude": 22.640632825770236,
+        "gpsAddress": "114.04368222332549:22.640632825770236",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23808976转8005",
+        "telephones": [
+          "0755-23808976转8005"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/712/d14cfdb306f24a0b6313783064c57045.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 4.719590602997595,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3243,
+        "name": "橙天嘉禾影城（卓悦汇IMAX店）",
+        "address": "深圳市福田区梅林街道中康路126号卓悦汇购物中心L4-27号",
+        "longitude": 114.06680501138217,
+        "latitude": 22.57549997428304,
+        "gpsAddress": "114.06680501138217:22.57549997428304",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-83217930",
+        "telephones": [
+          "0755-83217930"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3243/4a034b18903eca44f283bfe9e5bbf6fa.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4600,
+        "Distance": 4.737515571011335,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 889,
+        "name": "深圳保利国际影城大中华店",
+        "address": "深圳市福田区福华路大中华国际交易广场4楼",
+        "longitude": 114.06860515094559,
+        "latitude": 22.541686764510715,
+        "gpsAddress": "114.06860515094559:22.541686764510715",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-23813990",
+        "telephones": [
+          "0755-23813990"
+        ],
+        "logoUrl": "",
+        "businessTime": "09:30-23:30",
+        "notice": "电影开场前0.5小时（不含）以上退改签免费，0.5小时（含）以内不可退改签。观众有退改签需求，请致电客服电话：400-1808-400",
+        "isVisited": 0,
+        "lowPrice": 6500,
+        "Distance": 4.749848340772768,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 5612,
+        "name": "深圳中影南方激光影城民治多米汇店",
+        "address": "广东省深圳市龙华新区民治大道866号华侨新苑多米汇2楼",
+        "longitude": 114.044493,
+        "latitude": 22.643716,
+        "gpsAddress": "114.044493:22.643716",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-83136665",
+        "telephones": [
+          "0755-83136665"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5612/99122448d7bb84faec390ca9875abbbf.jpg",
+        "businessTime": "10:00-凌晨00:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 4.884421363232997,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 666,
+        "name": "深圳华夏星越影城（民治万盛店）",
+        "address": "广东省深圳市龙华新区民治街道办事处万众城万盛百货四楼",
+        "longitude": 114.045558,
+        "latitude": 22.644627,
+        "gpsAddress": "114.045558:22.644627",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-28166630",
+        "telephones": [
+          "0755-28166630"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/666/2369f4055d2b624e33057e1ed6f5a266.png",
+        "businessTime": "9:40-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4060,
+        "Distance": 4.972804439698489,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 6697,
+        "name": "盛唐时代国际影城(卓越intown)",
+        "address": "深圳福田区卓越世纪中心3楼",
+        "longitude": 114.07106465843107,
+        "latitude": 22.537175887004175,
+        "gpsAddress": "114.07106465843107:22.537175887004175",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-86933636",
+        "telephones": [
+          "0755-86933636"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6697/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5050,
+        "Distance": 5.035637025915264,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 6618,
+        "name": "深圳中影W影城龙华店",
+        "address": "深圳市龙华区龙华街道和平路宝银坊一楼中影W影城",
+        "longitude": 114.028992,
+        "latitude": 22.657282,
+        "gpsAddress": "114.028992:22.657282",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-21038672",
+        "telephones": [
+          "0755-21038672"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6618/914f4972d5416362acbf4dffd410f16a.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 5.05277887077068,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 243,
+        "name": "中影国际影城深圳益田假日广场店",
+        "address": "深圳市南山区益田假日广场L3-8中影益田假日影城",
+        "longitude": 113.98042804086128,
+        "latitude": 22.54406899006707,
+        "gpsAddress": "113.98042804086128:22.54406899006707",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86298989",
+        "telephones": [
+          "0755-86298989"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/243/44423ef4bd8b2b643ba98069129dd024.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6490,
+        "Distance": 5.070911215131341,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9698,
+        "name": "CGV影城（卓悦中心IMAX店）",
+        "address": "深圳市福田区深南大道南侧岗厦天元花园BD层",
+        "longitude": 114.07166533825757,
+        "latitude": 22.54379644722131,
+        "gpsAddress": "114.07166533825757:22.54379644722131",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-29968229",
+        "telephones": [
+          "0755-29968229"
+        ],
+        "logoUrl": "",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 8300,
+        "Distance": 5.087405154464261,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8865,
+        "name": "万都国际影城福田店",
+        "address": "广东省深圳市福田区金田路与福民路交汇处银庄大厦三楼（福民地图D出口）",
+        "longitude": 114.07117069441342,
+        "latitude": 22.52720675659722,
+        "gpsAddress": "114.07117069441342:22.52720675659722",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-88603896",
+        "telephones": [
+          "0755-88603896"
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5300,
+        "Distance": 5.103435600273112,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 6692,
+        "name": "深圳中影德金影城(龙华店)",
+        "address": "深圳龙华街道人民北路291号5楼D5-pt9（百佳华商场5楼）",
+        "longitude": 114.026863,
+        "latitude": 22.661214,
+        "gpsAddress": "114.026863:22.661214",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-21003120",
+        "telephones": [
+          "0755-21003120"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6692/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4440,
+        "Distance": 5.220539756196694,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8831,
+        "name": "星河寰宇IMAX影城（星河WORLD店）",
+        "address": "深圳市龙岗区五合大道WORLD-COCOPARK商场四楼",
+        "longitude": 114.065563,
+        "latitude": 22.60925,
+        "gpsAddress": "114.065563:22.60925",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "075528282566",
+        "telephones": [
+          "075528282566"
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 7900,
+        "Distance": 5.257297748023719,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8458,
+        "name": "深圳华谊兄弟影院方大城店",
+        "address": "南山区龙珠四路方大广场二号楼三楼",
+        "longitude": 113.9782330825518,
+        "latitude": 22.56529095709135,
+        "gpsAddress": "113.9782330825518:22.56529095709135",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-21621208",
+        "telephones": [
+          "0755-21621208"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8458/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5900,
+        "Distance": 5.385374485287513,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 175,
+        "name": "橙天嘉禾影城（天润店 )",
+        "address": "深圳市宝安区龙华和平东路金銮时代大厦二楼",
+        "longitude": 114.03698546893732,
+        "latitude": 22.662776714695372,
+        "gpsAddress": "114.03698546893732:22.662776714695372",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-29006999",
+        "telephones": [
+          "0755-29006999"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/175/909d403d49490d45ad50ca27c17cb0c7.jpg",
+        "businessTime": "9:30-02:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 5.431611406708423,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 499,
+        "name": "中影雅图城市影院(龙华店)",
+        "address": "深圳市宝安区龙华街道东环一路和油松路交界处家和福百货4楼",
+        "longitude": 114.05079757819983,
+        "latitude": 22.649543808630455,
+        "gpsAddress": "114.05079757819983:22.649543808630455",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-28110855",
+        "telephones": [
+          "0755-28110855"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/499/F62B2478803AE6DFB17B5E58355DDFB6.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 5.446022254172122,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 5098,
+        "name": "深圳熙腾影院龙华店",
+        "address": "广东省深圳市龙华新区东环一路世贸广场一楼26号",
+        "longitude": 114.0290277631052,
+        "latitude": 22.667126477048846,
+        "gpsAddress": "114.0290277631052:22.667126477048846",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23771373",
+        "telephones": [
+          "0755-23771373"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5098/43ff483497cf4da43e50239b2f9e7315.png",
+        "businessTime": "10：00-凌晨02：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 5.498335235469235,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9795,
+        "name": "华夏星光国际影城龙华店",
+        "address": "广东省深圳市龙华区龙华街道富康社区梅龙大道1389号深圳书城龙华城5层",
+        "longitude": 114.05374396367833,
+        "latitude": 22.648271983871282,
+        "gpsAddress": "114.05374396367833:22.648271983871282",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-28097123",
+        "telephones": [
+          "0755-28097123"
+        ],
+        "logoUrl": "",
+        "businessTime": "10:30-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3600,
+        "Distance": 5.571711848682058,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1798,
+        "name": "深圳中影UL城市影院彩田店",
+        "address": "深圳市福田区彩田路3030号彩德城三层",
+        "longitude": 114.07603423452763,
+        "latitude": 22.54874616854983,
+        "gpsAddress": "114.07603423452763:22.54874616854983",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-86180661",
+        "telephones": [
+          "0755-86180661"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1798/09adafa6ec3f453081a2f10064d2695d.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5350,
+        "Distance": 5.574056729696402,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8118,
+        "name": "英皇UA电影城(深圳深业上城店)",
+        "address": "皇岗路5001号深业上城M层和L1层",
+        "longitude": 114.0775,
+        "latitude": 22.561883,
+        "gpsAddress": "114.0775:22.561883",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "020-85111688",
+        "telephones": [
+          "020-85111688"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8118/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5500,
+        "Distance": 5.78067170384193,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 2687,
+        "name": "深圳金逸新新影城",
+        "address": "深圳市龙华新区清泉路9号TT.MALL星光城三楼",
+        "longitude": 114.040639,
+        "latitude": 22.669846,
+        "gpsAddress": "114.040639:22.669846",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23774982",
+        "telephones": [
+          "0755-23774982"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2687/1b8b62702cfeb65062cab596a76651c5.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 5.844973659742899,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 7944,
+        "name": "保利国际影城深圳龙华悦都店",
+        "address": "深圳市龙华区龙华街道龙观东路保利悦都花园商铺3层",
+        "longitude": 114.03915079484295,
+        "latitude": 22.674780148392344,
+        "gpsAddress": "114.03915079484295:22.674780148392344",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-21000028",
+        "telephones": [
+          "0755-21000028"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7944/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 6.017412906589757,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 7896,
+        "name": "中影星美巨幕影城（坂田佳华店）",
+        "address": "广东省深圳市龙岗区坂田街道吉华路635号佳华领汇广场（max city）5楼",
+        "longitude": 114.064754,
+        "latitude": 22.638757,
+        "gpsAddress": "114.064754:22.638757",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "0755-28288891",
+        "telephones": [
+          "0755-28288891"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7896/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "10:00-23:50",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5790,
+        "Distance": 6.026393740240965,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 230,
+        "name": "中影泰得影城福田口岸店",
+        "address": "深圳市福田区渔农村福田口岸商业广场（水立方旁）",
+        "longitude": 114.07928860943997,
+        "latitude": 22.521518399925633,
+        "gpsAddress": "114.07928860943997:22.521518399925633",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-82779229",
+        "telephones": [
+          "0755-82779229"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/230/7CE83097B2927F3F303D0480EE763731.jpg",
+        "businessTime": "10:30-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4090,
+        "Distance": 6.038487337342635,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1634,
+        "name": "深圳中影博亚影城五和店",
+        "address": "深圳市龙岗区坂田街道五和大道118号和成世纪大厦3楼",
+        "longitude": 114.06765036178206,
+        "latitude": 22.631973075968844,
+        "gpsAddress": "114.06765036178206:22.631973075968844",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "0755-33155535",
+        "telephones": [
+          "0755-33155535"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1634/c3543b31224580c1d3887006d44b862a.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4720,
+        "Distance": 6.059195109369849,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 183,
+        "name": "深圳南国艺恒影城坂田店",
+        "address": "深圳市龙岗区坂田街道吉华路坂田商业广场5楼",
+        "longitude": 114.0686443988116,
+        "latitude": 22.63961726343574,
+        "gpsAddress": "114.0686443988116:22.63961726343574",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "0755-28483188",
+        "telephones": [
+          "0755-28483188"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/183/2f00722e996d0820768116270eaa66d1.jpg",
+        "businessTime": "10：00-11：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5520,
+        "Distance": 6.369975004297922,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9611,
+        "name": "纵横国际影城（西丽LUXE店）",
+        "address": "深圳市南山区留仙大道大学城D出口益田假日里L4",
+        "longitude": 113.9706249226647,
+        "latitude": 22.588738459594673,
+        "gpsAddress": "113.9706249226647:22.588738459594673",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-26916185",
+        "telephones": [
+          "0755-26916185"
+        ],
+        "logoUrl": "",
+        "businessTime": "上午9:30-凌晨01:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5600,
+        "Distance": 6.457359712335089,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9124,
+        "name": "中影星河影城（大浪店）",
+        "address": "广东省深圳市龙华区大浪劳动广场篮球场对面二楼",
+        "longitude": 114.01197204332529,
+        "latitude": 22.68538462739091,
+        "gpsAddress": "114.01197204332529:22.68538462739091",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-27701766",
+        "telephones": [
+          "0755-27701766"
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4280,
+        "Distance": 6.502841149161056,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 176,
+        "name": "深圳市百誉电影城大浪店",
+        "address": "深圳市宝安区大浪街道华旺路大浪商业中心E栋三楼",
+        "longitude": 114.00067252331912,
+        "latitude": 22.681312262232016,
+        "gpsAddress": "114.00067252331912:22.681312262232016",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-29999996",
+        "telephones": [
+          "0755-29999996"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/176/7C29E6FF0BFF23C31605BFA3BCB72379.jpg",
+        "businessTime": "周一至周五13:00-23:00周六、周日及法定节假日10:30-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3170,
+        "Distance": 6.743721624815614,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 5204,
+        "name": "深圳橙天欢乐影城(大浪店)",
+        "address": "深圳宝安区大浪商业中心二期纷享城3楼（万盛百货）",
+        "longitude": 114.00077160641683,
+        "latitude": 22.68204319804127,
+        "gpsAddress": "114.00077160641683:22.68204319804127",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "0755-23737557",
+        "telephones": [
+          "0755-23737557"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5204/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 6.769254084387059,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 2879,
+        "name": "深圳华纳万都影城龙华店",
+        "address": "深圳龙华新区清湖社区花伴里邻里购物中心三楼（清湖老村公交站旁，半里大厦旁）3楼",
+        "longitude": 114.0552187459692,
+        "latitude": 22.67806479656872,
+        "gpsAddress": "114.0552187459692:22.67806479656872",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23771972",
+        "telephones": [
+          "0755-23771972"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2879/c8111b7337300eb634f079c8bbef1be9.tmp",
+        "businessTime": "9:30---24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4720,
+        "Distance": 6.814608471911323,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 7919,
+        "name": "百老汇电影中心(IMAX万象天地店)",
+        "address": "广东省深圳市南山区粤海街道华润万象天地L5层SL562号店铺",
+        "longitude": 113.9624600442261,
+        "latitude": 22.547691021109696,
+        "gpsAddress": "113.9624600442261:22.547691021109696",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86160222",
+        "telephones": [
+          "0755-86160222"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7919/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "9:30-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 7.070691612242521,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 2791,
+        "name": "卢米埃深圳华强北IMAX影城",
+        "address": "深圳市福田区华强北中航城天虹购物中心4-6楼",
+        "longitude": 114.08984901804564,
+        "latitude": 22.545736947098145,
+        "gpsAddress": "114.08984901804564:22.545736947098145",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-23613657",
+        "telephones": [
+          "0755-23613657"
+        ],
+        "logoUrl": "https://pic.maizuo.com/usr/2791/66b87b3e32900ac060f77bcb77046e9e.png",
+        "businessTime": "10:00-凌晨02:00",
+        "notice": "小卖品在影城前台领取",
+        "isVisited": 0,
+        "lowPrice": 5300,
+        "Distance": 7.110587145003788,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 6730,
+        "name": "深圳正佳国际影城华强北店",
+        "address": "福田区红荔路3002号（华新地铁站A出口闸机前旺角美食街内01号）",
+        "longitude": 114.090643,
+        "latitude": 22.555275,
+        "gpsAddress": "114.090643:22.555275",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-82765351",
+        "telephones": [
+          "0755-82765351"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6730/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 7.211111300805267,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 5218,
+        "name": "深圳华夏国际影城(观澜店)",
+        "address": "深圳宝安区观澜大道75号田背路口比邻新天地1楼",
+        "longitude": 114.04804,
+        "latitude": 22.698698,
+        "gpsAddress": "114.04804:22.698698",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "0755-23762682",
+        "telephones": [
+          "0755-23762682"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5218/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 7.344382307660484,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 6450,
+        "name": "中影荟星激光影城（西丽店）",
+        "address": "广东省深圳市南山区西丽街道留仙大道1369号西郡园女人世界2楼201-1",
+        "longitude": 113.961889,
+        "latitude": 22.585731,
+        "gpsAddress": "113.961889:22.585731",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-26608196",
+        "telephones": [
+          "0755-26608196"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6450/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "周一至周五10:00-2:00；周六、日9:00-2:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4700,
+        "Distance": 7.356494329842739,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 7354,
+        "name": "哈艺时尚影城（福田京基店）",
+        "address": "深圳市福田区滨河大道3001号京基御景华城商业广场一楼（赤尾地铁站C出口）",
+        "longitude": 114.09261418386215,
+        "latitude": 22.53841710251588,
+        "gpsAddress": "114.09261418386215:22.53841710251588",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-33160528",
+        "telephones": [
+          "0755-33160528"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7354/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "10:00-次日凌晨02:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3180,
+        "Distance": 7.426480258163764,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 160,
+        "name": "深圳博纳国际影城华强店",
+        "address": "深圳市福田区华强北茂业百货九楼博纳国际影城",
+        "longitude": 114.09289276546852,
+        "latitude": 22.550857008619978,
+        "gpsAddress": "114.09289276546852:22.550857008619978",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-83019333",
+        "telephones": [
+          "0755-83019333"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/160/3b94406155591a2a2b9108c0aab374cb.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "为了您的眼部健康及更好的观影体验，观看3D影片时，请您自备3D眼镜或至影城售票处购买。",
+        "isVisited": 0,
+        "lowPrice": 5900,
+        "Distance": 7.452590036310833,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8609,
+        "name": "中影万成激光影城",
+        "address": "坂田街道坂雪岗大道4033号彩生活时代广场L3层L307-308",
+        "longitude": 114.076239,
+        "latitude": 22.661859,
+        "gpsAddress": "114.076239:22.661859",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "0755-85220061",
+        "telephones": [
+          "0755-85220061"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8609/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4200,
+        "Distance": 7.675498830470133,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 6403,
+        "name": "深圳万成国际影城",
+        "address": "广东省深圳市龙华新区观澜街道人民路264号中保义乌商贸城4楼",
+        "longitude": 114.04678349104677,
+        "latitude": 22.710059115365993,
+        "gpsAddress": "114.04678349104677:22.710059115365993",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-29809196",
+        "telephones": [
+          "0755-29809196"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6403/f86cab774974b5b91388bdc4ba14c3c8.png",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6720,
+        "Distance": 7.788847798932582,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3349,
+        "name": "深圳希恩国际影城（观澜巨幕店）",
+        "address": "广东省深圳市龙华新区观澜街道环观南路大和路口101号凯美居",
+        "longitude": 114.060189,
+        "latitude": 22.696098,
+        "gpsAddress": "114.060189:22.696098",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23303967",
+        "telephones": [
+          "0755-23303967"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3349/42856361396958143e233baff00ee31f.png",
+        "businessTime": "星期一至五9:30-01:30；星期六、日9:30-01:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4090,
+        "Distance": 7.798533674054528,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 872,
+        "name": "深圳中影UL城市影院西丽店",
+        "address": "深圳市南山区西丽镇366商业步行街中段二楼",
+        "longitude": 113.957948,
+        "latitude": 22.587817,
+        "gpsAddress": "113.957948:22.587817",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-21508883",
+        "telephones": [
+          "0755-21508883"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/872/09adafa6ec3f453081a2f10064d2695d.jpg",
+        "businessTime": "周一至周五：12:00-24:00,周六，周日：10:00-24:00 ",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5350,
+        "Distance": 7.804962334060712,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 2673,
+        "name": "纵横国际影城杜比全景声巨幕（天安云谷店）",
+        "address": "深圳市龙岗区坂田街道雪岗路2018号天安云谷产业园一期3栋D座三层",
+        "longitude": 114.07733705267457,
+        "latitude": 22.664207749647755,
+        "gpsAddress": "114.07733705267457:22.664207749647755",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "0755-28180218",
+        "telephones": [
+          "0755-28180218"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2673/8915b66170b7395b6228aa3de9ccea2c.png",
+        "businessTime": "10:00-次日01:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5370,
+        "Distance": 7.837629954173894,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 4597,
+        "name": "深圳新耀客国际影城",
+        "address": "深圳市龙华新区大浪浪静路南国俪人C栋1楼",
+        "longitude": 113.993456,
+        "latitude": 22.703561,
+        "gpsAddress": "113.993456:22.703561",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23977239",
+        "telephones": [
+          "0755-23977239"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4597/30fd5dc2725325df06909138f16b6a3d.png",
+        "businessTime": "10:30--01:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4780,
+        "Distance": 8.000087691641896,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8677,
+        "name": "万象影城（深圳湾万象城旗舰店）",
+        "address": "南山区粤海街道华润深圳湾万象城L3层",
+        "longitude": 113.95281700407132,
+        "latitude": 22.521391998261535,
+        "gpsAddress": "113.95281700407132:22.521391998261535",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-82269038",
+        "telephones": [
+          "0755-82269038"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8677/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 7630,
+        "Distance": 8.219893388788078,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 321,
+        "name": "深圳中影4KMAX国际影城（西丽店）",
+        "address": "深圳市南山区西丽留仙大道悦方广场1楼（留仙洞地铁站B出口）",
+        "longitude": 113.951821,
+        "latitude": 22.586889,
+        "gpsAddress": "113.951821:22.586889",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-28119118",
+        "telephones": [
+          "0755-28119118"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/321/489a6845347868747e32c05de12e86b8.png",
+        "businessTime": "10:30—24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6300,
+        "Distance": 8.458995091013811,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3041,
+        "name": "麦希中影南方影城深大店",
+        "address": "深圳市南山区深大地铁站A3出口科技园文化广场3楼",
+        "longitude": 113.94995985356722,
+        "latitude": 22.546250314600087,
+        "gpsAddress": "113.94995985356722:22.546250314600087",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86718487",
+        "telephones": [
+          "0755-86718487"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3041/96355e4771b251556d8af810207fc085.png",
+        "businessTime": "10:00~00:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 8.461822612621665,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 5422,
+        "name": "中影熙腾影城(观澜店)",
+        "address": "深圳龙华新区观澜大水坑一村盛世华联4楼",
+        "longitude": 114.01344651749734,
+        "latitude": 22.734776540899507,
+        "gpsAddress": "114.01344651749734:22.734776540899507",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-25555581",
+        "telephones": [
+          "0755-25555581"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5422/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "周一至周五中午12:00-1:00；节假日10:00-1:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 8.664501328138286,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9657,
+        "name": "中影星美国际影城（南山云城店）",
+        "address": "深圳市南山区西丽街道云城万科里五楼",
+        "longitude": 113.94881101065091,
+        "latitude": 22.580210972612583,
+        "gpsAddress": "113.94881101065091:22.580210972612583",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86522580",
+        "telephones": [
+          "0755-86522580"
+        ],
+        "logoUrl": "",
+        "businessTime": "10:00-次日02:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5710,
+        "Distance": 8.72768974092814,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 2654,
+        "name": "橙天嘉禾影城（观澜湖IMAX店）",
+        "address": "深圳市龙华新区观澜高尔夫大道8号观澜湖新城MH MALL  1栋4层  2A栋C座1-3层",
+        "longitude": 114.06523746018303,
+        "latitude": 22.713652565085077,
+        "gpsAddress": "114.06523746018303:22.713652565085077",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-23739982",
+        "telephones": [
+          "0755-23739982"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2654/4a034b18903eca44f283bfe9e5bbf6fa.tmp",
+        "businessTime": "早上10:00  -  凌晨1:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 7600,
+        "Distance": 8.769004752687085,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9095,
+        "name": "新南国影城新城市广场店",
+        "address": "广东省深圳市福田区深南中路新城市广场C区三楼",
+        "longitude": 114.10476915391705,
+        "latitude": 22.545478927461723,
+        "gpsAddress": "114.10476915391705:22.545478927461723",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-25943738",
+        "telephones": [
+          "0755-25943738"
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6500,
+        "Distance": 8.771513341310335,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 606,
+        "name": "深圳金逸影城观澜店",
+        "address": "深圳市观澜镇观光路万悦城广场4楼（观澜富士康南门）",
+        "longitude": 114.01699024290248,
+        "latitude": 22.739024705466573,
+        "gpsAddress": "114.01699024290248:22.739024705466573",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-88370290",
+        "telephones": [
+          "0755-88370290"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/606/d14cfdb306f24a0b6313783064c57045.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 8.801642310851948,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1818,
+        "name": "深圳纵横国际影城杜比全景声巨幕(深圳湾店）",
+        "address": "深圳市南山区中心路（深圳湾段）君尚3019 7F",
+        "longitude": 113.9482767066185,
+        "latitude": 22.506169439425474,
+        "gpsAddress": "113.9482767066185:22.506169439425474",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86665288",
+        "telephones": [
+          "0755-86665288"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1818/8915b66170b7395b6228aa3de9ccea2c.png",
+        "businessTime": "10:00-02:00",
+        "notice": "温馨提示：本影城VIP厅和4D厅儿童观影需购票，请前来观影的顾客朋友们知悉，谢谢！",
+        "isVisited": 0,
+        "lowPrice": 5930,
+        "Distance": 8.835509976549611,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 5226,
+        "name": "深圳中影星悦国际影城",
+        "address": "深圳宝安区石岩街道石龙社区工业一路与工业二路交汇处（惠科时尚广场A栋东侧二楼）",
+        "longitude": 113.976248,
+        "latitude": 22.700916,
+        "gpsAddress": "113.976248:22.700916",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "0755-85253232",
+        "telephones": [
+          "0755-85253232"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5226/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 8.933691322509304,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 791,
+        "name": "深圳华谊兄弟影院太古城店",
+        "address": "深圳市南山区深圳湾中心路宝能太古城北区负一楼",
+        "longitude": 113.945243,
+        "latitude": 22.50637,
+        "gpsAddress": "113.945243:22.50637",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-21621200",
+        "telephones": [
+          "0755-21621200"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/791/778233d5d1fcd10549867ae58dc7b028.jpg",
+        "businessTime": "10:00-22：00",
+        "notice": "观影须知：影院密闭环境谢绝有异味食品，禁止拍照摄像，观影时手机请调至静音状态，请保管好自己随身物品，以防丢失",
+        "isVisited": 0,
+        "lowPrice": 9800,
+        "Distance": 9.164554688841326,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1096,
+        "name": "大地影院（观澜兴万达广场店）",
+        "address": "深圳龙华新区观澜街道观澜大道419号兴万达广场5楼",
+        "longitude": 114.06519553985812,
+        "latitude": 22.724472231825306,
+        "gpsAddress": "114.06519553985812:22.724472231825306",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-27987982",
+        "telephones": [
+          "0755-27987982"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1096/226af4b1d757f2054a8370d5e24fb9ad.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 9.195491461211638,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 152,
+        "name": "保利国际影城深圳南山店",
+        "address": "深圳南山区文心五路保利文化广场B区3楼",
+        "longitude": 113.94363143138719,
+        "latitude": 22.522789145221218,
+        "gpsAddress": "113.94363143138719:22.522789145221218",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86287088/0755-86287237",
+        "telephones": [
+          "0755-86287088/0755-86287237"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/152/6f7ceb05dc004a2dc145a114c36bf25c.jpg",
+        "businessTime": "10:00-23:00",
+        "notice": "卖座网是保利国际影城授权的票务合作渠道，使用涉嫌倒卖或盗用他人影票，影城有权拒收并报警处理。感谢您的理解与配合，观影愉快",
+        "isVisited": 0,
+        "lowPrice": 4200,
+        "Distance": 9.22654854454904,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 203,
+        "name": "海岸影城",
+        "address": "深圳市南山区海德三道与文心五路交汇处海岸城三楼",
+        "longitude": 113.94344161494148,
+        "latitude": 22.5239495360594,
+        "gpsAddress": "113.94344161494148:22.5239495360594",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86359166",
+        "telephones": [
+          "0755-86359166"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/203/99cca30c892be98edf9ef66387fc724c.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "请勿携带影响观影环境的食品进入影厅，给您带来不便，敬请谅解",
+        "isVisited": 0,
+        "lowPrice": 5010,
+        "Distance": 9.24171046419016,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1878,
+        "name": "深圳时空国际影城（观澜章阁店）",
+        "address": "深圳市龙华区观澜街道章阁社区天富商贸城3楼(观澜富士康北门200米处章阁天桥旁)",
+        "longitude": 114.02449109390832,
+        "latitude": 22.74998698631921,
+        "gpsAddress": "114.02449109390832:22.74998698631921",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-29457799",
+        "telephones": [
+          "0755-29457799"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1878/4926c56663255d0a2604df640c98d451.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 9.244241999915044,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1943,
+        "name": "深圳中影南方影城观澜店",
+        "address": "深圳市龙华新区观澜樟坑径社区安澜大道218号新安汇大厦2楼",
+        "longitude": 114.08495876951201,
+        "latitude": 22.691312944956422,
+        "gpsAddress": "114.08495876951201:22.691312944956422",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "phone": "0755-28318991",
+        "telephones": [
+          "0755-28318991"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1943/295186642eb990095a74262fb2bf25b5.png",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3740,
+        "Distance": 9.303772817239942,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 2688,
+        "name": "百汇国际影城红岭店",
+        "address": "深圳市福田区红岭中路翠林阁南国大厦星光广场3楼",
+        "longitude": 114.11048002339818,
+        "latitude": 22.56168853740129,
+        "gpsAddress": "114.11048002339818:22.56168853740129",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440304,
+        "districtName": "福田区",
+        "district": {
+          "districtId": 440304,
+          "name": "福田区"
+        },
+        "phone": "0755-22205709",
+        "telephones": [
+          "0755-22205709"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2688/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "10：00-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4060,
+        "Distance": 9.433946473642896,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3019,
+        "name": "深圳嘉乐国际影城鸿翔店",
+        "address": "深圳市罗湖区松园路68号鸿翔花园二期一楼E01",
+        "longitude": 114.11236,
+        "latitude": 22.560776,
+        "gpsAddress": "114.11236:22.560776",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-22900020",
+        "telephones": [
+          "0755-22900020"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3019/d64b2224c655904b6f511c2932c8acc8.jpg",
+        "businessTime": "10:00--24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 9.639684827271891,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 887,
+        "name": "深圳UA影院 KK Mall店",
+        "address": "深圳市罗湖区深南东路5016号京基百纳空间（KK MALL）购物中心四楼",
+        "longitude": 114.1133901020629,
+        "latitude": 22.550752795271276,
+        "gpsAddress": "114.1133901020629:22.550752795271276",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "020-85111168",
+        "telephones": [
+          "020-85111168"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/887/5a2db6e1e68940e916a04e1241d47b87.jpg",
+        "businessTime": "10：00 - 24：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6000,
+        "Distance": 9.733492666444656,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3042,
+        "name": "深圳百川影城布吉店",
+        "address": "深圳龙岗区布吉街道吉华路下水径华润万家4楼",
+        "longitude": 114.108978,
+        "latitude": 22.617686,
+        "gpsAddress": "114.108978:22.617686",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "0755-85220101",
+        "telephones": [
+          "0755-85220101"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3042/7620ac55647f6b84814dbe00a3543664.png",
+        "businessTime": "10:00-23:00，节假日9:30-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5690,
+        "Distance": 9.795542026193312,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8847,
+        "name": "CINESKY新天影院IMAX",
+        "address": "广东省深圳市龙华区鸿荣源壹方天地A区L2-026",
+        "longitude": 114.04852876121132,
+        "latitude": 22.75759664922203,
+        "gpsAddress": "114.04852876121132:22.75759664922203",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440309,
+        "districtName": "龙华区",
+        "district": {
+          "districtId": 440309,
+          "name": "龙华区"
+        },
+        "telephones": [
+          ""
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6500,
+        "Distance": 9.915337254974968,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 759,
+        "name": "华夏星光国际影城",
+        "address": "深圳南山区南海大道与海德二道交界处南山书城7楼，茂业广场隔壁，海雅百货对面",
+        "longitude": 113.93574767226802,
+        "latitude": 22.52465408301655,
+        "gpsAddress": "113.93574767226802:22.52465408301655",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86122111",
+        "telephones": [
+          "0755-86122111"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/759/1245a42e95e2209f4af3cf8a1b65caa3.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5680,
+        "Distance": 10.090467513182906,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 6599,
+        "name": "深圳中影UL城市影院南山海雅店",
+        "address": "深圳市南海大道南山商业文化中心区海雅百货7楼",
+        "longitude": 113.935527,
+        "latitude": 22.524427,
+        "gpsAddress": "113.935527:22.524427",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-26995789",
+        "telephones": [
+          "0755-26995789"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6599/09adafa6ec3f453081a2f10064d2695d.jpg",
+        "businessTime": "早上10:00开始",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5350,
+        "Distance": 10.115907752826507,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 5230,
+        "name": "深圳中影德金影城(南山店)",
+        "address": "深圳南山区南头街道艺园东路缤纷年华家园商业裙楼301A-2号",
+        "longitude": 113.935046,
+        "latitude": 22.548352,
+        "gpsAddress": "113.935046:22.548352",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-27333318",
+        "telephones": [
+          "0755-27333318"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5230/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5350,
+        "Distance": 10.122554665971794,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 4513,
+        "name": "深圳中影金影星汇影城",
+        "address": "广东省深圳市宝安区石岩街道宝石东路209号星城购物中心4楼",
+        "longitude": 113.95445766925421,
+        "latitude": 22.686020009986187,
+        "gpsAddress": "113.95445766925421:22.686020009986187",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "0755-27206620",
+        "telephones": [
+          "0755-27206620"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4513/413d27efb292061a755e1fc7fb335e95.png",
+        "businessTime": "10:00-01:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4830,
+        "Distance": 10.17402256837025,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8683,
+        "name": "万象影城（深圳万象城店）",
+        "address": "深圳市罗湖区桂园街道宝安南路华润万象城363号商铺 万象影城",
+        "longitude": 114.11781003466218,
+        "latitude": 22.546083003069526,
+        "gpsAddress": "114.11781003466218:22.546083003069526",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-82669560",
+        "telephones": [
+          "0755-82669560"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8683/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 14500,
+        "Distance": 10.22317884916969,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3003,
+        "name": "深圳蛇口影剧院",
+        "address": "深圳市南山区蛇口新街110号",
+        "longitude": 113.93528037374189,
+        "latitude": 22.493811855059917,
+        "gpsAddress": "113.93528037374189:22.493811855059917",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-26697983",
+        "telephones": [
+          "0755-26697983"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3003/e050f654fe0f58a5db30a3a65fe23af4.tmp",
+        "businessTime": "节假日10:00-24:00，非节假日13:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2100,
+        "Distance": 10.368911920148268,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1425,
+        "name": "深圳中影UL城市影院昌宏店",
+        "address": "深圳市龙岗区布吉街道布吉社区八约一街昌宏百货3楼",
+        "longitude": 114.1162736672405,
+        "latitude": 22.61362723421831,
+        "gpsAddress": "114.1162736672405:22.61362723421831",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "0755-86650856",
+        "telephones": [
+          "0755-86650856"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1425/09adafa6ec3f453081a2f10064d2695d.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6500,
+        "Distance": 10.509948190182692,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 956,
+        "name": "深圳华影信和影城",
+        "address": "深圳市南山区南海大道2088号信和购物广场四层",
+        "longitude": 113.93151906077618,
+        "latitude": 22.512106151847245,
+        "gpsAddress": "113.93151906077618:22.512106151847245",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86293881",
+        "telephones": [
+          "0755-86293881"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/956/c6abcbbc216e7e67fe44e74cf0748492.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6030,
+        "Distance": 10.626204140076293,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9575,
+        "name": "上座国际影城（东门店）",
+        "address": "广东省深圳市罗湖区东门街道解放路永新街55号新安酒店商业楼三楼",
+        "longitude": 114.12347501869789,
+        "latitude": 22.550972504047074,
+        "gpsAddress": "114.12347501869789:22.550972504047074",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-82332528",
+        "telephones": [
+          "0755-82332528"
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4090,
+        "Distance": 10.856100140991089,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3975,
+        "name": "百汇国际影城南山店",
+        "address": "深圳南山区创业路亿利达大厦A区1楼",
+        "longitude": 113.92843799953904,
+        "latitude": 22.523129305663254,
+        "gpsAddress": "113.92843799953904:22.523129305663254",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "075586939116",
+        "telephones": [
+          "075586939116"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3975/dd5dfbd19933af0053175d6b4c539b88.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 10.907031365990145,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 839,
+        "name": "深圳戏院影城",
+        "address": "深圳市罗湖区新园路1号（东门步行街西口）",
+        "longitude": 114.12402801556965,
+        "latitude": 22.552166001327986,
+        "gpsAddress": "114.12402801556965:22.552166001327986",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-82175808",
+        "telephones": [
+          "0755-82175808"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/839/64a1ac8a38c30e1dafc154437defc4ba.jpg",
+        "businessTime": "11:30-00:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4100,
+        "Distance": 10.918889888449142,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1088,
+        "name": "深圳百川国际影城",
+        "address": "深圳市南山区南新路3022号欢乐颂购物中心5楼",
+        "longitude": 113.92740669271221,
+        "latitude": 22.541359812801712,
+        "gpsAddress": "113.92740669271221:22.541359812801712",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86605666",
+        "telephones": [
+          "0755-86605666"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1088/7620ac55647f6b84814dbe00a3543664.png",
+        "businessTime": "周一至周五10:00-23:00；周六至周日：9:30-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5700,
+        "Distance": 10.974478480861716,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8987,
+        "name": "中影泰得东门店",
+        "address": "罗湖区东门街道解放路1034号鸿展广场三楼（太阳百货斜对面）",
+        "longitude": 114.12597897883153,
+        "latitude": 22.55197961993002,
+        "gpsAddress": "114.12597897883153:22.55197961993002",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "17324429003",
+        "telephones": [
+          "17324429003"
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4390,
+        "Distance": 11.135793807244998,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 9122,
+        "name": "南国影城（金光华2期店）",
+        "address": "广东省深圳市罗湖区人民南路金光华广场五楼",
+        "longitude": 114.12615276681203,
+        "latitude": 22.54566692685893,
+        "gpsAddress": "114.12615276681203:22.54566692685893",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-82611680",
+        "telephones": [
+          "0755-82611680"
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5200,
+        "Distance": 11.151901277560464,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 252,
+        "name": "深圳南国影城金光华店",
+        "address": "深圳罗湖区金光华广场三楼",
+        "longitude": 114.12655018435596,
+        "latitude": 22.545929954562943,
+        "gpsAddress": "114.12655018435596:22.545929954562943",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-82611138 / 0755-82611198\t",
+        "telephones": [
+          "0755-82611138 / 0755-82611198\t"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/252/06322d0851efcc4bf5154ff382bcbd39.jpg",
+        "businessTime": "09:00-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5400,
+        "Distance": 11.19612918194543,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8502,
+        "name": "中影泰得影城(蛇口花园城店)",
+        "address": "南山区招商街道南海大道花园城5层中影泰得影城",
+        "longitude": 113.92629251271059,
+        "latitude": 22.50553842429563,
+        "gpsAddress": "113.92629251271059:22.50553842429563",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-26813865",
+        "telephones": [
+          "0755-26813865"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8502/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 7290,
+        "Distance": 11.246783107187447,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 869,
+        "name": "深圳中影百誉影城东门店",
+        "address": "深圳市罗湖区步行街UCITY商业中心五六楼",
+        "longitude": 114.12706964838135,
+        "latitude": 22.552829644298185,
+        "gpsAddress": "114.12706964838135:22.552829644298185",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-86222233",
+        "telephones": [
+          "0755-86222233"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/869/51941bdcc0afc0f66af71e27259fda35.jpg",
+        "businessTime": "10：00 - 24：00\t",
+        "notice": "7月27日4D厅场次为3D场次，无4D效果。",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 11.258160650814384,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 2767,
+        "name": "深圳中影百誉钻石影城",
+        "address": "深圳市罗湖区南湖路与友谊路交汇处钻石广场3楼",
+        "longitude": 114.1272438846163,
+        "latitude": 22.545165570969463,
+        "gpsAddress": "114.1272438846163:22.545165570969463",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-28881980",
+        "telephones": [
+          "0755-28881980"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2767/227c480ec2c5a51dfc235fe54d2f9ea4.tmp",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6260,
+        "Distance": 11.273422260179986,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1850,
+        "name": "深圳中影易禾影城",
+        "address": "深圳市吉华路布吉街新一佳超市4楼",
+        "longitude": 114.12446647848893,
+        "latitude": 22.606575304991043,
+        "gpsAddress": "114.12446647848893:22.606575304991043",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "0755-84276049",
+        "telephones": [
+          "0755-84276049"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1850/7140b60fad3e67a15c5e7abab9fbb779.png",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 11.303385254814813,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3299,
+        "name": "深圳百誉草埔影城",
+        "address": "广东省深圳市罗湖区金稻田路1191号福安购物广场七楼",
+        "longitude": 114.12615101062477,
+        "latitude": 22.590983910969385,
+        "gpsAddress": "114.12615101062477:22.590983910969385",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-22358277",
+        "telephones": [
+          "0755-22358277"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3299/5901880c63815926a127c7194e28ae81.jpg",
+        "businessTime": "10：00--24:00",
+        "notice": "禁止将外带食品及饮料带入影厅",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 11.336819765784375,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8798,
+        "name": "中影半岛国际影城",
+        "address": "广东省深圳市南山区蛇口街道蛇口太子路111号 ",
+        "longitude": 113.9257029395334,
+        "latitude": 22.494659889159497,
+        "gpsAddress": "113.9257029395334:22.494659889159497",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-87857661",
+        "telephones": [
+          "0755-87857661"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8798/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2410,
+        "Distance": 11.40161134478159,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 7407,
+        "name": "中影国线影城石岩店",
+        "address": "深圳市宝安区石岩街道宝石南路119号盛妆百货四楼",
+        "longitude": 113.940194,
+        "latitude": 22.685887,
+        "gpsAddress": "113.940194:22.685887",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "0755-82591307",
+        "telephones": [
+          "0755-82591307"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7407/2dffcd54f18204485c3e66c775d0b7b8.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6260,
+        "Distance": 11.454910519934657,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3112,
+        "name": "深圳红石影城东门店",
+        "address": "深圳市罗湖区东门中路2088号东门中心城负一楼晒布地铁站Ａ2出口",
+        "longitude": 114.12960882837909,
+        "latitude": 22.555350292422734,
+        "gpsAddress": "114.12960882837909:22.555350292422734",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-25138811",
+        "telephones": [
+          "0755-25138811"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3112/4188b4c3946fdd369f82ce9e45c2efd2.png",
+        "businessTime": "上午：9：50-2：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 11.544338061242607,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3365,
+        "name": "深圳宝影国际影城",
+        "address": "宝安区石岩街道应人石社区天宝路28号",
+        "longitude": 113.931238,
+        "latitude": 22.651202,
+        "gpsAddress": "113.931238:22.651202",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "暂无",
+        "telephones": [
+          "暂无"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3365/dbd0ea198ae9b45407012bbe958e0ebb.png",
+        "businessTime": "10:30-01：30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 11.56911571286308,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1188,
+        "name": "深圳市中影UL城市影院前海店",
+        "address": " 深圳市南山区前海路与学府路交汇处星宇购物中心2楼2楼（建设银行楼上）",
+        "longitude": 113.921195,
+        "latitude": 22.53447,
+        "gpsAddress": "113.921195:22.53447",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86180687",
+        "telephones": [
+          "0755-86180687"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1188/09adafa6ec3f453081a2f10064d2695d.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5350,
+        "Distance": 11.675668129676868,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 1114,
+        "name": "深圳华夏君盛影城",
+        "address": "深圳市南山区前海路港湾丽都购物广场2层",
+        "longitude": 113.92113799078076,
+        "latitude": 22.537574962145417,
+        "gpsAddress": "113.92113799078076:22.537574962145417",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-29902555",
+        "telephones": [
+          "0755-29902555"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1114/b5bc640b1bfe70b0814b9b11cd6480fe.tmp",
+        "businessTime": "9:30--凌晨2：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5010,
+        "Distance": 11.676552214427087,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 480,
+        "name": "深圳汉鼎宇佑影城（星海名城店）",
+        "address": "深圳市南山区深南路前海路西南侧星海名城七期6楼（前海天虹六楼）",
+        "longitude": 113.920732,
+        "latitude": 22.546648,
+        "gpsAddress": "113.920732:22.546648",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86933999",
+        "telephones": [
+          "0755-86933999"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/480/58f7c4ba5bc2d95c065166f88ac69b4b.png",
+        "businessTime": "10：00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5920,
+        "Distance": 11.715478556967515,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 80,
+        "name": "大地影院（深圳宏发店）",
+        "address": "广东省深圳市石岩宝石南路与青年路交汇处宏发购物广场二期5楼",
+        "longitude": 113.93548278353254,
+        "latitude": 22.679070187081987,
+        "gpsAddress": "113.93548278353254:22.679070187081987",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "0755-29820759",
+        "telephones": [
+          "0755-29820759"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/80/e4c9c117c99043e7aae70e4a6205a8a4.png",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 11.734189944511908,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8431,
+        "name": "深圳中影科创国际影城",
+        "address": "南山区南山街道阳光科创中心C座二楼中影科创国际影城",
+        "longitude": 113.92085753980064,
+        "latitude": 22.519870513924648,
+        "gpsAddress": "113.92085753980064:22.519870513924648",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-26656316",
+        "telephones": [
+          "0755-26656316"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8431/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 11.761248120269025,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 697,
+        "name": "星趴影院海上世界店",
+        "address": "深圳市南山区招商街道蛇口海上世界A区三层",
+        "longitude": 113.92270616270902,
+        "latitude": 22.4896434279286,
+        "gpsAddress": "113.92270616270902:22.4896434279286",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-88274914",
+        "telephones": [
+          "0755-88274914"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/697/a0ad2cd79a54936a4bb04079302885cd.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4900,
+        "Distance": 11.775447326426244,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 8985,
+        "name": "中影万友影城（IBC MALL店）",
+        "address": "罗湖区东晓街道布心路3008号IBC MALL四楼中影万友影城",
+        "longitude": 114.1311476805138,
+        "latitude": 22.58064470272078,
+        "gpsAddress": "114.1311476805138:22.58064470272078",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "17748573803",
+        "telephones": [
+          "17748573803"
+        ],
+        "logoUrl": "",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 7030,
+        "Distance": 11.812852572792481,
+        "eTicketFlag": 0,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 2121,
+        "name": "麦希中影南方布吉店",
+        "address": "深圳市龙岗区布吉地铁站A出口龙珠商城5F-501",
+        "longitude": 114.13012463540275,
+        "latitude": 22.60916216286771,
+        "gpsAddress": "114.13012463540275:22.60916216286771",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440307,
+        "districtName": "龙岗区",
+        "district": {
+          "districtId": 440307,
+          "name": "龙岗区"
+        },
+        "phone": "0755-2808 3588",
+        "telephones": [
+          "0755-2808 3588"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2121/05c8bc506b8c722fe618f35f613605d1.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 11.943049102164464,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3979,
+        "name": "卢米埃深圳汇港IMAX影城",
+        "address": "深圳市南山区蛇口工业三路1号汇港3F（海上世界地铁站B出口）",
+        "longitude": 113.92071731431058,
+        "latitude": 22.493742901277475,
+        "gpsAddress": "113.92071731431058:22.493742901277475",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-21610013",
+        "telephones": [
+          "0755-21610013"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3979/9044492dc2fc783b1d7325a8f5ac56f6.jpg",
+        "businessTime": "10:00-次日00:30 ",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 11.953581120305568,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 5649,
+        "name": "深圳影尊国际影城",
+        "address": "深圳宝安区新安街道建安一路80号香槟广场4楼东区",
+        "longitude": 113.9133903554887,
+        "latitude": 22.567315479781936,
+        "gpsAddress": "113.9133903554887:22.567315479781936",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "0755-27881099",
+        "telephones": [
+          "0755-27881099"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5649/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "早上10点至晚上凌晨1点",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6290,
+        "Distance": 12.569547919608938,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 4088,
+        "name": "中影红树林国际影城前海店",
+        "address": "广东省深圳市南山区月亮湾大道与桂湾三路交汇处龙海商业广场A区13-17号",
+        "longitude": 113.912587443736,
+        "latitude": 22.541195202982657,
+        "gpsAddress": "113.912587443736:22.541195202982657",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440305,
+        "districtName": "南山区",
+        "district": {
+          "districtId": 440305,
+          "name": "南山区"
+        },
+        "phone": "0755-86182916",
+        "telephones": [
+          "0755-86182916"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4088/06cef1a0c07fe3632f3c7a7b6b5806bf.jpg",
+        "businessTime": "AM10：00-次日AM0:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5240,
+        "Distance": 12.624007621309493,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3238,
+        "name": "橙天嘉禾影城（中洲店）",
+        "address": "深圳市宝安区创业二路89号中洲购物中心4楼",
+        "longitude": 113.91300134967756,
+        "latitude": 22.57791245568448,
+        "gpsAddress": "113.91300134967756:22.57791245568448",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "暂无",
+        "telephones": [
+          "暂无"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3238/4a034b18903eca44f283bfe9e5bbf6fa.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5500,
+        "Distance": 12.658281443417296,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 794,
+        "name": "深圳深影凤凰国际影城",
+        "address": "广东省深圳市罗湖区凤凰路181号京基凤凰印象三楼",
+        "longitude": 114.13985537981935,
+        "latitude": 22.553692933487334,
+        "gpsAddress": "114.13985537981935:22.553692933487334",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440303,
+        "districtName": "罗湖区",
+        "district": {
+          "districtId": 440303,
+          "name": "罗湖区"
+        },
+        "phone": "0755-82119188",
+        "telephones": [
+          "0755-82119188"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/794/6f0b8dce7befeae012a444e39ab1524d.jpg",
+        "businessTime": "9:30-凌晨1:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6300,
+        "Distance": 12.682003951559327,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
+      },
+      {
+        "cinemaId": 3105,
+        "name": "深圳万厅国际影城石岩店",
+        "address": "深圳市宝安区石岩街道塘头大道东海百货二楼",
+        "longitude": 113.9236409573885,
+        "latitude": 22.670912606857105,
+        "gpsAddress": "113.9236409573885:22.670912606857105",
+        "cityId": 440300,
+        "cityName": "深圳市",
+        "districtId": 440306,
+        "districtName": "宝安区",
+        "district": {
+          "districtId": 440306,
+          "name": "宝安区"
+        },
+        "phone": "0755-29042336",
+        "telephones": [
+          "0755-29042336"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3105/1d16096054f3ef1a072b36e1b8ecbbad.png",
+        "businessTime": "上午10:00-晚间23:40",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4210,
+        "Distance": 12.714795509680602,
+        "eTicketFlag": 1,
+        "seatFlag": 1,
+        "ticketTypes": null
       }
-    ],
-    "total": 1
-  },
-  "msg": "ok"
-}
-
-{
-  "status": 0,
-  "data": {
-    "films": [{
-      "filmId": 4927,
-      "name": "通往春天的列车",
-      "poster": "https://pic.maizuo.com/usr/movie/92decb545de70d5cccf7f972a1abf649.jpg",
-      "actors": [{
-        "name": "李骥",
-        "role": "导演",
-        "avatarAddress": "https://pic.maizuo.com/usr/movie/e4ed6a7fe3b41ea2cd5feb4b90e9c9e5.jpg"
-      }, {
-        "name": "任素汐",
-        "role": "演员",
-        "avatarAddress": "https://pic.maizuo.com/usr/movie/0d9a17c197335263f00f1561f0426e56.jpg"
-      }, {
-        "name": "李岷城",
-        "role": "演员",
-        "avatarAddress": "https://pic.maizuo.com/usr/movie/d3e8bf4235124455bec569721f6875fe.jpg"
-      }, {
-        "name": "陈宇星",
-        "role": "演员",
-        "avatarAddress": "https://pic.maizuo.com/usr/movie/14acd58dc13055c90ceb56b7c21a3c32.jpg"
-      }],
-      "director": "李骥",
-      "category": "剧情|悬疑",
-      "synopsis": "《通往春天的列车》讲述了一个在经济转型后逐渐陷入颓态老工业基地齐齐哈尔，一个小人物青年寻求出路与自我的故事。因为导演李骥出生和成长在齐齐哈尔，对家乡有着深厚的感情，但曾经这些掌握着国家命脉的传统工业城市却日渐衰落，李骥在家乡的三十多年中经历了当时整个东北命脉的变迁，其中太多心酸太多想表达的东西，于是写成了这部关于齐齐哈尔青年人题材的剧本《通往春天的列车》，也是一部很少有剧组全程在齐齐哈尔取景的电影。",
-      "filmType": {
-        "name": "2D",
-        "value": 1
-      },
-      "nation": "中国大陆",
-      "language": "",
-      "videoId": "",
-      "premiereAt": 1584662400,
-      "timeType": 3,
-      "runtime": 99,
-      "item": {
-        "name": "2D",
-        "type": 1
-      },
-      "isPresale": false,
-      "isSale": false
-    }, {
-      "filmId": 3451,
-      "name": "阿凡达2",
-      "poster": "https://pic.maizuo.com/usr/movie/c5da4eddf824824c21f42aebd4f4120f.jpg",
-      "actors": [{
-        "name": "萨姆·沃辛顿",
-        "role": "杰克·萨利",
-        "avatarAddress": "https://pic.maizuo.com/usr/100003451/df050071a829cb47d7612e1e4c3f8b37.jpg"
-      }, {
-        "name": "佐伊·索尔达娜",
-        "role": "奈蒂莉",
-        "avatarAddress": "https://pic.maizuo.com/usr/100003451/a457d0e419128720688a6d11712db4b4.jpg"
-      }, {
-        "name": "西格妮·韦弗",
-        "role": "格蕾丝·奥格斯",
-        "avatarAddress": "https://pic.maizuo.com/usr/100003451/2ebc1d29d21743c960de288930921814.jpg"
-      }, {
-        "name": "史蒂芬·朗",
-        "role": "迈尔斯·夸奇上校",
-        "avatarAddress": "https://pic.maizuo.com/usr/100003451/368a975d10ee8e0bf30b5d5906fb6527.jpg"
-      }],
-      "director": "詹姆斯·卡梅隆",
-      "category": "动作|科幻|奇幻|冒险",
-      "synopsis": "《阿凡达2》的剧情承接自第一部的5年之后。曾经的地球残疾军人杰克·萨利，如今已经是潘多拉星球纳美族一方部族的族长，并且与爱妻娜塔莉共同育有一对可爱的儿女，日子过得平淡而充实。然而某天，有个部族的兄弟在海岸附近巡逻时遭到利器割喉身亡。通过现场勘查，以及作为前海军陆战队员的敏锐直觉，杰克判断已经有人类的阿凡达混入了部落……",
-      "filmType": {
-        "name": "2D",
-        "value": 1
-      },
-      "nation": "美国",
-      "language": "英语",
-      "videoId": "",
-      "premiereAt": 1608249600,
-      "timeType": 3,
-      "runtime": 90,
-      "item": {
-        "name": "2D",
-        "type": 1
-      },
-      "isPresale": false,
-      "isSale": false
-    }],
-    "total": 2
+    ]
   },
   "msg": "ok"
 }
